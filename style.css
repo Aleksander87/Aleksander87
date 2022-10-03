@@ -11,7 +11,7 @@ section {
 }
 
 .hero {
-    background-color: #3e4475;
+    background-color: #0C1D36;
     height: 100vh;
     color: white;
     font-size: 40px;
@@ -99,8 +99,8 @@ p {
 }
 
 .logo {
-    height: 80px;
-    margin: 30px;
+    height: 190px;
+    margin-left: 50px;
 }
 .social {
     margin: 20px;
